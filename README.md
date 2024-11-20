@@ -2,4 +2,4 @@
 Currently the legs are hard to print on a badly calibrated printer as surface contact with the build plate is low and the arms should be printed as round as possible.
 print slowly and in a slightly flexible material (PLA works fine)
 
-https://github.com/CaliOn2/3d_Keyboard_Leg/blob/main/3d_model.png
+![Picture of Model in Cad Software](https://github.com/CaliOn2/3d_Keyboard_Leg/blob/main/3d_model.png)
