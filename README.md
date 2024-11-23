@@ -6,3 +6,5 @@ print slowly and in a slightly flexible material (PLA works fine)
 ## Images
 
 ![Picture of Model in Cad Software](https://github.com/CaliOn2/3d_Keyboard_Leg/blob/main/3d_model.png)
+![Picture of Model keyb leg extended](https://github.com/CaliOn2/3d_Keyboard_Leg/blob/main/keyblegup.png)
+![Picture of Model keyb leg folded](https://github.com/CaliOn2/3d_Keyboard_Leg/blob/main/keyblegfolded.png)
